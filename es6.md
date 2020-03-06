@@ -64,7 +64,7 @@
 
 - [Promises](https://learning.oreilly.com/library/view/practical-es6/9781492067184/Text/Section0009.html)
 
-## 5a
+## 5
 
 - [Modules](https://learning.oreilly.com/library/view/practical-es6/9781492067184/Text/Section0008.html)
 - [ES2017](https://learning.oreilly.com/library/view/practical-es6/9781492067184/Text/Section0014.html)
