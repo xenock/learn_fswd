@@ -8,6 +8,8 @@ El bootcamp de FullStack Developer de Bridge Academy proporciona los conocimient
 
 Durante las primeras cinco semanas nos centraremos en profundizar en el componente frontend a través de la creación de pequeñas aplicaciones  de ejemplo y otros ejercicios como la creación de un clon de Netflix, donde los alumnos aprenderán a trabajar aplicando todas las lecciones a un producto real. Durante las restantes siete semanas, seguiremos trabajando en dicha aplicación añadiendo mejorar y centrándonos en el desarrollo de backend a través de una API que de soporte al frontend. Además, trabajaremos los conceptos básicos de DevOps así como nociones básicas de Cloud (Docker, Kubernetes).
 
+-------------------------------------------------------------------------------
+
 ### Semana 1 - Programación avanzada ###
 
 #### Introducción ####
@@ -43,6 +45,8 @@ Programación funcional:
 - Estados compartidos.
 - Mutabilidad.
 
+-------------------------------------------------------------------------------
+
 ### Semana 2 - Visualización de datos ###
 
 #### Introducción ####
@@ -76,6 +80,8 @@ Mapas
   - Capas
   - Marcadores personalizados
   - GeoJSON
+
+-------------------------------------------------------------------------------
 
 ### Semana 3 - Introducción a la programación de servidor (Backend) ###
 
@@ -125,28 +131,43 @@ Mongoose:
   - Validaciones
   - Operaciones CRUD
 
+-------------------------------------------------------------------------------
 
-### Semana 4 ###
+### Semana 4 - Autorización, expresiones regulares y contenedor de estado ###
 
 #### Introducción ####
 
-
+Semana de aprendizaje de varias disciplinas: Autorización y autenticación, expresiones regulares y el contenedor de estado para el frontend.
 
 #### Objetivos de aprendizaje ####
 
-
+- Aprender a autorizar y autenticar usuarios a través de JWT, de manera local, y con un servicio de terceros como OAuth.
+- Poder aplicar expresiones regulares en validación de formularios y la algoritmia.
+- Conocer el patrón de diseño "flux" y el concepto "contenedor de estado" a través de la librería Redux, así como saber usar sus herramientas de desarrollo para el navegador.
 
 #### Etiquetas ####
 
-
+OAuth, JWT, RegEx, Expresiones Regulares, Redux
 
 #### Contenido ####
 
+OAuth
+
+JWT
+
+Expresiones Regulares:
+- Qué son
+- Aplicación en la algoritmia
+- Aplicación en la validación de formularios
+
+Redux:
+- Patrón "flux"
+- DevTools
+
+-------------------------------------------------------------------------------
 
 ### Semana 5 ###
 
-
-
 #### Introducción ####
 
 
@@ -161,12 +182,10 @@ Mongoose:
 
 #### Contenido ####
 
-
+-------------------------------------------------------------------------------
 
 ### Semana 6 ###
 
-
-
 #### Introducción ####
 
 
@@ -181,11 +200,10 @@ Mongoose:
 
 #### Contenido ####
 
+-------------------------------------------------------------------------------
 
 ### Semana 7 ###
 
-
-
 #### Introducción ####
 
 
@@ -200,11 +218,10 @@ Mongoose:
 
 #### Contenido ####
 
+-------------------------------------------------------------------------------
 
 ### Semana 8 ###
 
-
-
 #### Introducción ####
 
 
@@ -220,11 +237,10 @@ Mongoose:
 #### Contenido ####
 
 
+-------------------------------------------------------------------------------
 
 ### Semana 9 ###
 
-
-
 #### Introducción ####
 
 
@@ -240,10 +256,9 @@ Mongoose:
 #### Contenido ####
 
 
+-------------------------------------------------------------------------------
 
 ### Semana 10 ###
-
-
 
 #### Introducción ####
 
