@@ -213,7 +213,7 @@ Los alumnos, por equipos, desarrollarán un producto mínimo viable mediante un 
 
 #### Etiquetas ####
 
-Agile, SCRUM, Git flow, teamwork, Husky, Netlify, CircleCI, CI/CD.
+Agile, SCRUM, Git flow, teamwork, Husky, Dependabot, Netlify, CircleCI, CI/CD.
 
 #### Contenido ####
 
@@ -229,74 +229,113 @@ Herramientas
 
 -------------------------------------------------------------------------------
 
-### Semana 7 ###
+### Semana 7 - React ###
 
 #### Introducción ####
 
-
+Semana de introducción a la librería de React
 
 #### Objetivos de aprendizaje ####
 
-
+Se aprenderá a trabajar con una librería de componentes y un contendor de estado.
 
 #### Etiquetas ####
 
-
+React, React Hooks, React Context, Redux, CSS Modules.
 
 #### Contenido ####
 
 -------------------------------------------------------------------------------
 
-### Semana 8 ###
+### Semana 8 - React avanzado ###
 
 #### Introducción ####
 
-
+Produndizaremos en el sistema de librerías disponibles para React. También aprenderemos todo alrededor del concepto de Design System.
 
 #### Objetivos de aprendizaje ####
 
-
+Conocer las librerías más usadas para React según su uso.
+Aprender sobre el concepto Design System
 
 #### Etiquetas ####
 
-
+React Router, React Testing Library, Formik, Yup, Storybook, Styled components, react-i18next
 
 #### Contenido ####
 
+Rutas en nuestra aplicación:
+- React Router.
+
+Testing en React:
+- React Testing library
+- Jest
+- Cypress
+
+Formularios y validación:
+- Formik
+- Yup
+
+Design System:
+- Storybook
+- """"Algún design system de por ahí""""
+
+Estilos en react:
+- Styled Components
+
+Internacionalización:
+- React-i18next
 
 -------------------------------------------------------------------------------
 
-### Semana 9 ###
+### Semana 9 - SQL ###
 
 #### Introducción ####
 
-
+Aprender el lenguaje de consulta SQL y Bases de Datos relacionales.
 
 #### Objetivos de aprendizaje ####
 
-
+Ser capaces de crear y adminsitrar bases de datos relacionales y usar el lenguage de consulta SQL.
 
 #### Etiquetas ####
 
-
+SQL, PostgreSQL, MariaDB, MySQL, SQLite, Bases de Datos, DDBB,
 
 #### Contenido ####
 
+Instalación de base de datos
+
+Adminsitración de base de datos
+
+Lenguaje SQL
 
 -------------------------------------------------------------------------------
 
-### Semana 10 ###
+### Semana 10 - GraphQL ###
 
 #### Introducción ####
 
-
+GraphQL es un lenguaje de consulta. Aprenderemos cómo usarlo en nuestro backend y las herramientas de conexión que disponemos para el frontal.
 
 #### Objetivos de aprendizaje ####
 
-
+Aprender a crear nuestro servidor en el lenguage GraphQL y conectarlo a una aplicación.
 
 #### Etiquetas ####
 
-
+GraphQL, Apollo Client, Apollo Server
 
 #### Contenido ####
+
+Consultas y mutaciones
+
+Esquemas y tipos
+
+Validación
+
+Ejecución
+
+Introspección
+
+Autorización, paginación y caché
