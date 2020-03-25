@@ -24,7 +24,7 @@ Preparar al alumno para poder entender y desarrollar código en los dos paradigm
 
 #### Etiquetas ####
 
-Programación Orientada a Objetos, Programación Funcional, POO (OOP), PF (FP).
+Vanilla Javascript, Programación Orientada a Objetos, Programación Funcional, POO (OOP), PF (FP).
 
 #### Contenido ####
 
@@ -62,7 +62,7 @@ Módulo dedicado a la representación de datos en gráficas y mapas.
 
 #### Etiquetas ####
 
-Visualización
+Visualización de datos, visualization.
 
 #### Contenido ####
 
@@ -191,6 +191,7 @@ Testing, Jest, Cypress
 - Cobertura
 - TDD
 - BDD
+- Test API
 
 Jest
 
@@ -198,21 +199,33 @@ Cypress
 
 -------------------------------------------------------------------------------
 
-### Semana 6 ###
+### Semana 6 - Proyecto por equipos ###
 
 #### Introducción ####
 
-
+Los alumnos, por equipos, desarrollarán un producto mínimo viable mediante un proyecto de una semana de duración.
 
 #### Objetivos de aprendizaje ####
 
-
+- Aprender a trabajaar en equipo de manera eficaz y eficiente.
+- Conocer y aplicar las metodologías de trabajo más extendidas en el desarrollo de software.
+- Aprender a construír un entorno de desarrollo con CI/CD.
 
 #### Etiquetas ####
 
-
+Agile, SCRUM, Git flow, teamwork, Husky, Netlify, CircleCI, CI/CD.
 
 #### Contenido ####
+
+Agile y SCRUM
+
+Ciclo de desarrollo de una aplicación
+
+CI/CD:
+- Integración contínua
+- Despliegue contínuo
+
+Herramientas
 
 -------------------------------------------------------------------------------
 
