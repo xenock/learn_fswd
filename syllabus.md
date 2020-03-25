@@ -166,21 +166,35 @@ Redux:
 
 -------------------------------------------------------------------------------
 
-### Semana 5 ###
+### Semana 5 - Testing ###
 
 #### Introducción ####
 
-
+Semana donde se aprenderá a hacer tests y ver su aplicación más allá del código que producimos.
 
 #### Objetivos de aprendizaje ####
 
-
+- Ser capaz de hacer test unitarios, de integración y de funcionalidad.
+- Aprender a refactorizar código desfasado a través de la seguridad del test.
 
 #### Etiquetas ####
 
-
+Testing, Jest, Cypress
 
 #### Contenido ####
+
+- Pruebas unitarias.
+- Pruebas de aceptación.
+- Pruebas de integración.
+- Pruebas de regresión.
+- Mocks
+- Cobertura
+- TDD
+- BDD
+
+Jest
+
+Cypress
 
 -------------------------------------------------------------------------------
 
