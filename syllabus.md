@@ -22,7 +22,7 @@ Preparar al alumno para poder entender y desarrollar código en los dos paradigm
 
 #### Etiquetas ####
 
-Programación Orientada a Objetos, Programación Funcional, POO (OOP), PF (FP)
+Programación Orientada a Objetos, Programación Funcional, POO (OOP), PF (FP).
 
 #### Contenido ####
 
@@ -43,29 +43,41 @@ Programación funcional:
 - Estados compartidos.
 - Mutabilidad.
 
-### Semana 2 ###
-
-
+### Semana 2 - Visualización de datos ###
 
 #### Introducción ####
 
-
+Módulo dedicado a la representación de datos en gráficas y mapas.
 
 #### Objetivos de aprendizaje ####
 
-
+- Representar datos
+- Configuración librerías
+- Programar la interacción
+- Personalizar visualización
 
 #### Etiquetas ####
 
-
+Visualización
 
 #### Contenido ####
 
+Gráficas
+  - Configuracion inicial
+  - Crea tu primera grafica
+  - Dale estilo a tu grafica
+  - Graficas avanzadas
 
+Mapas
+  - Creando mapa simple
+  - Marcadores, circulos y poligonos
+  - "Popups"
+  - Eventos
+  - Capas
+  - Marcadores personalizados
+  - GeoJSON
 
 ### Semana 3 ###
-
-
 
 #### Introducción ####
 
@@ -83,8 +95,6 @@ Programación funcional:
 
 
 ### Semana 4 ###
-
-
 
 #### Introducción ####
 
