@@ -77,21 +77,53 @@ Mapas
   - Marcadores personalizados
   - GeoJSON
 
-### Semana 3 ###
+### Semana 3 - Introducción a la programación de servidor (Backend) ###
 
 #### Introducción ####
 
-
+Se aprenderán en este módulo las bases de la programación de servidor, arquitectura REST y bases de datos no relacionales.
 
 #### Objetivos de aprendizaje ####
 
-
+- Crear una API web con funcionalidad CRUD
+- Saber aplicar arquitectura REST
+- Uso de bases de datos no relacionales
 
 #### Etiquetas ####
 
-
+Backend, NodeJS, ExpressJS, MongoDB, NoSQL, REST
 
 #### Contenido ####
+
+Express:
+  - Instalando
+  - ¡Hola mundo!
+  - Enrutado básico
+  - Sirviendo archivos estáticos
+  - Rutas
+  - Escribiendo "Middlewares"
+  - Usando "Middlewares"
+  - Gestión de errores
+
+MongoDB
+  - Introducción
+  - Instalación
+  - Operaciones CRUD
+  - Consultas
+
+Express:
+  - Integración con bases de datos
+  - CRUD
+
+REST:
+  - Métodos HTTP
+
+Mongoose:
+  - ORM
+  - Modelos y esquemas
+  - Consultas
+  - Validaciones
+  - Operaciones CRUD
 
 
 ### Semana 4 ###
